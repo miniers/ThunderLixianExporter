@@ -10,7 +10,7 @@
 // @include      http://cloud.vip.xunlei.com/*
 // @run-at document-end
 // @copyright  2012+, Binux <root@binux.me>
-// @updateURL http://s.binux.me/TLE/master/ThunderLixianExporter.meta.js
+// @updateURL https://github.com/miniers/ThunderLixianExporter/raw/miniers-mutilServer/ThunderLixianExporter.user.js
 // ==/UserScript==
 
 function tle_wrapper() {
